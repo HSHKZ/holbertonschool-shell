@@ -1,2 +1,2 @@
 #!/bin/bash
-iicp -ru --backup=t *.html ../àoxx
+cp -ru --backup=t *.html ../àoxx
