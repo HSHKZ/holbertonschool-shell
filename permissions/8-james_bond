@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 421 hello
+chmod rwxr-x--x hello
